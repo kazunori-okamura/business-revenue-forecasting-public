@@ -1,0 +1,6 @@
+.DS_Store
+bussiness-revenue-forecasting/.DS_Store
+bussiness-revenue-forecasting/src/.DS_Store
+bussiness-revenue-forecasting/src/__pycache__/
+bussiness-revenue-forecasting/venv/
+bussiness-revenue-forecasting/data/row/*.csv
