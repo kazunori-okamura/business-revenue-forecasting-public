@@ -18,7 +18,7 @@ The project is organized around Jupyter notebooks, with shared helpers in `src/`
 .
 ├── data/
 │   ├── README.md
-│   └── row/
+│   └── raw/
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_baseline_model.ipynb
